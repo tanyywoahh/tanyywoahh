@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tanyywoahh
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning how to build webpages 
-- 📫 How to reach me: email [tanushreelalitbhavsar@gmail.com]
-- ⚡ Fun fact: I am alive yayyyy!!
+🥔 Hey! I'm PotatOS
+
+🎓 **CSE Student | AI & ML Enthusiast**  
+💡 Turning ideas into code, just like turning potatoes into digital mash 😎  
+📍 Currently in **3rd Semester**, exploring ML, Python, and creative projects
 
 <!---
 tanyywoahh/tanyywoahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
