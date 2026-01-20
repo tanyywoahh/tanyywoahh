@@ -1,11 +1,4 @@
-🥔 Hey! I'm PotatOS
-
-🎓 **CSE Student | AI & ML Enthusiast**  
-💡 Turning ideas into intelligent code 😎  
-📍 Currently in **3rd Semester**, exploring ML, Python, and creative projects
-
-
-# 💫 About Me:
+About Me:
 🥔 Hey!, I'm Tanushree  <br><br>🎓 CSE (AI & ML) Student    <br><br>-Turning ideas into intelligent code <br><br>- Interested in Machine Learning and Artificial Intelligence  <br>- Currently learning Deep Learning and Computer Vision  <br>- Passionate about building practical AI projects  <br><br>Skills  <br><br>- **Languages:** Python, C++, JAVA  <br>- **Machine Learning:** Scikit-learn, TensorFlow  <br>- **Deep Learning:** Neural Networks, CNN  <br>- **Computer Vision:** OpenCV  <br>- **Tools:** Github, VS Code  <br><br><br>Projects  <br><br>- realistic Dataset Generator  <br><br>Currently Learning  <br><br>- Deep Learning  <br>- Computer Vision  <br>- Generative AI  <br><br>Contact  <br><br>- LinkedIn: https://www.linkedin.com/in/tanushreelalitbhavsar<br>- Email: tanushreelalitbhavsar@gmail.com  <br>
 
 
