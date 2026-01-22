@@ -1,7 +1,7 @@
 🥔 Hey!, I'm Tanushree  <br><br>🎓 CSE (AI & ML) Student    <br><br>-Turning ideas into intelligent code<br>- Interested in Machine Learning and Artificial Intelligence  <br>- Currently learning Deep Learning and Computer Vision  <br>- Passionate about building practical AI projects  <br><br>Skills  <br><br>- **Languages:** Python, C++, JAVA  <br>- **Machine Learning:** Scikit-learn, TensorFlow  <br>- **Deep Learning:** Neural Networks, CNN  <br>- **Computer Vision:** OpenCV  <br>- **Tools:** Github, VS Code    <br><br>Currently Learning  <br><br>- Deep Learning  <br>- Computer Vision  <br>- Generative AI  <br><br>Contact  <br><br>- LinkedIn: https://www.linkedin.com/in/tanushreelalitbhavsar<br>- Email: tanushreelalitbhavsar@gmail.com  <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushreelalitbhavsar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanushreelalitbhavsar@gmail.com) 
 
 # 💻 Tech Stack:
